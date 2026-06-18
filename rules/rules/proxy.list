@@ -1,0 +1,8 @@
+# Add domains that should use the proxy policy.
+#
+# Examples:
+# DOMAIN-SUFFIX,openai.com
+# DOMAIN-SUFFIX,chatgpt.com
+# DOMAIN-KEYWORD,anthropic
+
+DOMAIN-KEYWORD,web.nhk
