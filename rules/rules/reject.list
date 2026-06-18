@@ -1,6 +1,0 @@
-# Add domains that should be rejected / blocked.
-#
-# Examples:
-# DOMAIN-SUFFIX,ads.example.com
-# DOMAIN-KEYWORD,tracking
-
