@@ -1,8 +1,0 @@
-# Add domains that should connect directly.
-#
-# Examples:
-# DOMAIN-SUFFIX,example.cn
-# DOMAIN,example.com
-
-DOMAIN-KEYWORD,huacloud
-DOMAIN-KEYWORD,flowercloud
